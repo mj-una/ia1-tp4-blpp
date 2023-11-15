@@ -1,0 +1,4 @@
+#*user:*_mj-una_#*dens-max:*_7_#*formato:{_nombre-archivo_id_id-relacional_densidad_posicion_vista}*
+semilla-0.txt_1_0_7_1_1
+semilla-1.txt_2_0_7_1_1
+semilla-2.txt_3_0_7_1_1
